@@ -1,9 +1,8 @@
 
 ## Introduction
-- 🌱 I’m currently learning  AWS and GCP 
--  ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷
-- 🏋️ Workout everyday!
-- 🏅 Black belt Taekwondo athlete 15 years ago
+-  ⚡ A passionate full stack web developer with lots of experience building large-scale financial systems
+-  ⚡ I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.
+-  🏋️ Workout everyday!
 
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/main/linked_icon.ico" />]( http://www.linkedin.com/in/naviddorfeshan)
@@ -34,5 +33,5 @@
 <br />
 
 
-### Languages and Tools
+### Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidDorfeshan&theme=dark&show_icons=true)
