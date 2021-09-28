@@ -6,8 +6,8 @@
 - 🏅 Black belt Taekwondo athlete 15 years ago
 
 ### Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/naviddorfeshan)
-[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://naviddorfeshan.medium.com)
+[<img align="left" alt="LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/main/linked_icon.ico" />]( http://www.linkedin.com/in/naviddorfeshan)
+[<img align="left" alt="WebSite" width="30" height="30" src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/main/Website-Icon.ico" />](http://naviddorfeshan.info/)
 [<img align="left" alt="Instagram" width="30" height="30"  src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/main/Instagram_icon.ico" />](https://www.instagram.com/Navid.Dorfeshan)
 
 <br />
