@@ -3,7 +3,7 @@
 -  ⚡ I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.
 -  🏋️ Workout everyday!
 
-A passionate full stack web developer with lots of experience building large-scale financial systems, CRM and MIS web applications since 2014. Expert in C#, Web API, .NET Core, Angular, React and T-SQL with database analysis and design. Focused and quick-learning Software Engineer in Object-Oriented programming for various projects.
+A passionate full stack web developer with lots of experience building large-scale financial systems, CRM and MIS web applications since 2014. Expert in C#, Web API, .NET Core, Angular and T-SQL with database analysis and design. Focused and quick-learning Software Engineer in Object-Oriented programming for various projects.
 
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/main/linked_icon.ico" />]( http://www.linkedin.com/in/naviddorfeshan)
