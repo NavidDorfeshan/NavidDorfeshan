@@ -8,7 +8,7 @@
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/naviddorfeshan)
 [<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://naviddorfeshan.medium.com)
-[<img align="left" alt="Instagram" width="30" height="30"  src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/0226bffc3cbb29a18634f8760c37a0649bfd38d4/Instagram_icon.ico.ico" />](https://www.instagram.com/Navid.Dorfeshan)
+[<img align="left" alt="Instagram" width="30" height="30"  src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/main/Instagram_icon.ico" />](https://www.instagram.com/Navid.Dorfeshan)
 
 <br />
 
