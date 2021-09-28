@@ -1,4 +1,4 @@
-![chacha.png](chacha.png)
+
 ## Introduction
 - 🌱 I’m currently learning  AWS and GCP 
 -  ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷
