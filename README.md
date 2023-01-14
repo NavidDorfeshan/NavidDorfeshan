@@ -32,6 +32,3 @@
 <br />
 <br />
 
-
-### Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidDorfeshan&theme=dark&show_icons=true)
