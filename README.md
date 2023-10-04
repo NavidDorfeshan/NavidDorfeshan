@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Navid Dorfeshan 👋</h1>
 <h2 align="Left">Introduction</h1>
-<h5>-  ⚡ I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.</h5>
-<h5>-  🏋️ Workout everyday!</h5>
-<h5>A passionate full stack web developer with lots of experience building large-scale financial systems, CRM and MIS web applications since 2014. Expert in C#, Web API, .NET Core, Angular and T-SQL with database analysis and design. Focused and quick-learning Software Engineer in Object-Oriented programming for various projects.</h5>
+<h5>A passionate full-stack web developer with 7 years of experience building large-scale financial systems, CRM, and MIS web applications since 2014. Expert in C#, Web API, .NET Core, Angular, and T-SQL with database analysis and design. Focused and quick-learning Software Engineer in Object-Oriented programming for various projects.</h5>
 
 
 
