@@ -1,32 +1,20 @@
-<h1 align="center">Hi there, I'm Navid Dorfeshan 👋</h1>
-<h2 align="Left">Introduction</h1>
-<h5>A passionate full-stack web developer with 7 years of experience building large-scale financial systems, CRM, and MIS web applications since 2014. Expert in C#, Web API, .NET Core, Angular, and T-SQL with database analysis and design. Focused and quick-learning Software Engineer in Object-Oriented programming for various projects.</h5>
+<h1 align="center">Hi 👋, I'm Navid Dorfeshan</h1>
+<h3 align="center">A passionate full stack developer with 7 years of experience building large-scale financial systems and CRM. Expert in .net core, Angular, Ms-Sql.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naviddorfeshan&label=Profile%20views&color=0e75b6&style=flat" alt="naviddorfeshan" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naviddorfeshan" alt="naviddorfeshan" /></a> </p>
 
-### Connect with me
-[<img align="left" alt="LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/main/linked_icon.ico" />]( http://www.linkedin.com/in/naviddorfeshan)
-[<img align="left" alt="WebSite" width="30" height="30" src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/main/Website-Icon.ico" />](http://naviddorfeshan.info/)
-[<img align="left" alt="Instagram" width="30" height="30"  src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/main/Instagram_icon.ico" />](https://www.instagram.com/Navid.Dorfeshan)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/naviddorfeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naviddorfeshan" height="30" width="40" /></a>
+</p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Languages and Tools
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/main/dot_net_logo_icon.ico" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/main/csharp_logo_icon.ico" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naviddorfeshan&show_icons=true&locale=en&layout=compact" alt="naviddorfeshan" /></p>
 
-<img align="left" alt="Angular" width="90px" height="62" src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/main/angular_logo_icon.ico" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/NavidDorfeshan/NavidDorfeshan/main/typescript_logo_icon.ico" />
-<br />
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naviddorfeshan&show_icons=true&locale=en" alt="naviddorfeshan" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naviddorfeshan&" alt="naviddorfeshan" /></p>
